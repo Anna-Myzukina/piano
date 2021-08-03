@@ -1,6 +1,6 @@
 # piano
 
-![img]()
+![img](https://github.com/Anna-Myzukina/piano/blob/main/images/piano.png)
 
 ## Getting Started
 
